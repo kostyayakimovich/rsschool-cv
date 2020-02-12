@@ -1,14 +1,15 @@
-Yakimovich Konstantsin
+##_Yakimovich Konstantsin_
 Minsk
 telegram: +375-29-147-33-29
-Email: yakimovichkostya@gmail.com
+Email: yakimovichkostya@gmail.com - automatic!
 
 Technologies: Javascript, HTML, CSS, git
+
 English: Intermediate
+
 Education: Belarussian State Economic University, specialty law
 
 Experience:
-
 I started learning html, css, javascript and git recently. I do not yet have much experience in these technologies, but I have a goal to develop further and improve my skills. During the training, I wrote a small game (CardGame) and posted it in my repository on GitHub.
 
 Courses: learnjavascript.ru, htmlacademy.ru, udemy tutorials
